@@ -664,7 +664,7 @@
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
-- [@salihrekani] (https://github.com/salihrekani)
+- [@salihrekani](https://github.com/salihrekani)
 
 - [@SidWorks](https://github.com/sidworks)
 
@@ -694,4 +694,4 @@
 
 - [@JoelFernando209](https://github.com/JoelFernando209)
 
-- [@D3GIII](https://github.com/D3GIII)
+- [@D3GIII](https://github.com/D3GIII) -[@hana2010](https://github.com/hana-sama)
